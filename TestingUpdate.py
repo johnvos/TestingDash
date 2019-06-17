@@ -7,9 +7,10 @@ from dash.dependencies import Input,Output
 import plotly.graph_objs as go
 import plotly
 
+f = open("testing_communication.txt")
 
 def ReadData():
-    f = open("testing_communication.txt")
+
     resultData = {
         'interval':[],
         'data':[]
@@ -18,7 +19,7 @@ def ReadData():
         lineSplit = line.split(",")
         resultData['interval'].append(int(lineSplit[0]))
         resultData['data'].append(int(lineSplit[1]))
-    f.close()
+    f.seek(0)
     return resultData
 
 
