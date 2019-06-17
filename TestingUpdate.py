@@ -34,16 +34,14 @@ def update_metrics(n):
               [Input('interval', 'n_intervals')])
 def update_graph_live(n):
     timeTaken = time.process_time() - startTime
-
+    #testing
     return{
         'data':[{
             'type': 'scatter',
             'y': timeTaken
         }]
     }
-
-    return fig
-
+    
 
 if __name__ == '__main__':
     app.run_server(debug=True)
