@@ -17,7 +17,7 @@ tcpServer.listen()
 
 starttime = time.time()
 
-while 1 :
+while 1:
     f = open("testing_communication.txt", "a")
     data = conn.recv(1024)
     data = data.decode("utf8")
