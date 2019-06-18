@@ -1,4 +1,3 @@
-import time
 import ast
 
 import dash
@@ -8,7 +7,7 @@ from dash.dependencies import Input,Output
 import plotly.graph_objs as go
 
 
-f = open("testing_communication.txt")
+f = open("testing_communication.log")
 
 def ReadData():
 

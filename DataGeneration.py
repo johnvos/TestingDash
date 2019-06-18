@@ -1,7 +1,7 @@
 import socket
 import time
 
-f = open("testing_communication.txt", "w")
+f = open("testing_communication.log", "w")
 index = 0
 f.close()
 
@@ -18,7 +18,7 @@ tcpServer.listen()
 starttime = time.time()
 
 while 1:
-    f = open("testing_communication.txt", "a")
+    f = open("testing_communication.log", "a")
     data = conn.recv(1024)
     data = data.decode("utf8")
     print(data)
