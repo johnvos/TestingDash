@@ -1,9 +1,58 @@
+import ast
+
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 
-import plotly.graph_objs as go
+
+class DeviceInformation:
+    def __init__(self,
+                 mac,
+                 ip,
+                 error_rx,
+                 broadcast,
+                 netmask,
+                 error_tx,
+                 tx_bytes,
+                 number_device,
+                 mtu,
+                 rx_bytes,
+                 device_name,
+                 flags):
+        self.mac = mac
+        self.ip = ip
+        self.error_rx = error_rx
+        self.broadcast = broadcast
+        self.netmask = netmask
+        self.error_tx = error_tx
+        self.tx_bytes = tx_bytes
+        self.number_device = number_device
+        self.mtu = mtu
+        self.rx_bytes = rx_bytes
+        self.device_name = device_name
+        self.flags = flags
+
+
+class Device:
+    def __init__(self,
+                 name,
+                 information1,
+                 information2,
+                 information3):
+        self.name = name
+        self.information1 = information1
+        self.information2 = information2
+        self.information3 = information3
+
+
+placeHolderData = {
+    'device1': Device("Device1","255.0.0.1","$300","DELL"),
+    'device2': Device("Device2","123.1.2.3","$10000","APPLE")
+}
+
+
+f = open('deviceDataLog','r')
 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -16,8 +65,8 @@ app.layout = html.Div([
     dcc.Dropdown(
         id='deviceNames',
         options=[
-            {'label':'Device 1', 'value':'device1'},
-            {'label':'Device 2', 'value':'device2'}
+            {'label': 'Device 1', 'value': 'device1'},
+            {'label': 'Device 2', 'value': 'device2'}
         ],
         placeholder="No device found",
         searchable=True
@@ -42,18 +91,6 @@ app.layout = html.Div([
         ], id='dataBlock3', style={'backgroundColor':'green', 'float':'left', 'width':'33.33%', 'color':'white'})
     ], id='dataDisplay', style={'display':'table', 'width':'100%'})
 ])
-
-class Device:
-    def __init__(self, name, information1, information2, information3):
-        self.name = name
-        self.information1 = information1
-        self.information2 = information2
-        self.information3 = information3
-
-placeHolderData={
-    'device1':Device("Device1","255.0.0.1","$300","DELL"),
-    'device2':Device("Device2","123.1.2.3","$10000","APPLE")
-}
 
 
 @app.callback([Output('dataBlock1','children'),

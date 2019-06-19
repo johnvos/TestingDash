@@ -1,5 +1,13 @@
+body{margin:0;}
+
 .banner {
-    background-color: red;
+    background-image:linear-gradient(#F26968,#F2AD9F);
     color: white;
 }
 
+.dataBlock{
+    background-color:#323339;
+    color:#6CBF84;
+    float:left;
+    width:33.33%;
+}
