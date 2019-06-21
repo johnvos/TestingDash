@@ -3,6 +3,27 @@
   <component name="ChangeListManager">
     <list default="true" id="933b0f35-3ff3-464b-ad91-1ebff76005ff" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DataGeneration.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataGeneration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DataReading.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataReading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DeviceDataClasses.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeviceDataClasses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DeviceDataDisplay.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeviceDataDisplay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/DeviceDataReceptionServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/DeviceDataReceptionServer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/PlayingWithSlider.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlayingWithSlider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/RandomNumberGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/RandomNumberGenerator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/SampleApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/SampleApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/ServerOriginalCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/ServerOriginalCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/TestingButtonToggle.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestingButtonToggle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/TestingDash.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestingDash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/TestingDynamic.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestingDynamic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/TestingGraphTypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestingGraphTypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/TestingImportA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/TestingImportB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/TestingImportC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/TestingListPo.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestingListPo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/TestingURL.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestingURL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/TestingUpdate.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestingUpdate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/testing_communication.log" beforeDir="false" afterPath="$PROJECT_DIR$/testing_communication.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,51 +34,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/TestingListPo.py">
+        <entry file="file://$PROJECT_DIR$/TestingListPo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/TestingImportA.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/TestingDictFor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestingTime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/TestingImportB.py">
+        <entry file="file://$PROJECT_DIR$/DeviceDataReceptionServer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/TestingImportC.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/DeviceDataClasses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/DeviceDataReceptionServer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="120">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -66,9 +73,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/DataGeneration.py">
+        <entry file="file://$PROJECT_DIR$/DataGeneration.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="285">
               <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -78,9 +85,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/DataReading.py">
+        <entry file="file://$PROJECT_DIR$/DataReading.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1065">
+            <state relative-caret-position="1155">
               <caret line="77" column="28" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
@@ -90,7 +97,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/ServerOriginalCode.py">
+        <entry file="file://$PROJECT_DIR$/ServerOriginalCode.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
@@ -99,9 +106,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/TestingGraphTypes.py">
+        <entry file="file://$PROJECT_DIR$/TestingGraphTypes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
+            <state relative-caret-position="465">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -157,14 +164,21 @@
         <option value="$PROJECT_DIR$/venv/TestingImportA.py" />
         <option value="$PROJECT_DIR$/venv/TestingImportC.py" />
         <option value="$PROJECT_DIR$/venv/TestingImportB.py" />
+        <option value="$PROJECT_DIR$/venv/__init__.py" />
+        <option value="$PROJECT_DIR$/TestingImportB.py" />
+        <option value="$PROJECT_DIR$/TestingImportA.py" />
+        <option value="$PROJECT_DIR$/TestingImportC.py" />
+        <option value="$PROJECT_DIR$/TestingTime.py" />
+        <option value="$PROJECT_DIR$/TestingListPo.py" />
+        <option value="$PROJECT_DIR$/TestingDictFor.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-85" />
-    <option name="y" value="61" />
-    <option name="width" value="1084" />
-    <option name="height" value="869" />
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="607" />
+    <option name="height" value="999" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -180,11 +194,6 @@
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -198,11 +207,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/venv/Test" />
       <recent name="$PROJECT_DIR$/venv/Display" />
       <recent name="$PROJECT_DIR$/venv" />
       <recent name="$PROJECT_DIR$/venv/scripts" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,29 +226,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TestingListPo">
-    <configuration name="RandomNumberGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Test/RandomNumberGenerator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestingDynamic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.TestingDictFor">
+    <configuration name="TestingDictFor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,7 +239,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Test/TestingDynamic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestingDictFor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestingImportA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestingImportA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestingImportB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestingImportB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,7 +302,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/TestingListPo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestingListPo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestingUpdate (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TestingTime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,32 +319,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/TestingUpdate.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestingUpdate" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Test/TestingUpdate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestingTime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -325,11 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TestingDictFor" />
+        <item itemvalue="Python.TestingTime" />
+        <item itemvalue="Python.TestingImportB" />
+        <item itemvalue="Python.TestingImportA" />
         <item itemvalue="Python.TestingListPo" />
-        <item itemvalue="Python.TestingUpdate (1)" />
-        <item itemvalue="Python.TestingUpdate" />
-        <item itemvalue="Python.TestingDynamic" />
-        <item itemvalue="Python.RandomNumberGenerator" />
       </list>
     </recent_temporary>
   </component>
@@ -348,14 +357,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1213" height="999" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15966387" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15966387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32988507" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3137931" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4413793" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -376,10 +384,10 @@
     <entry file="file://$PROJECT_DIR$/FileReader.py" />
     <entry file="file://$PROJECT_DIR$/UpdateDataFromServer.py" />
     <entry file="file://$PROJECT_DIR$/TestingDataReceiving.py" />
-    <entry file="file://$PROJECT_DIR$/venv/testing_communication.log">
+    <entry file="file://$PROJECT_DIR$/testing_communication.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/TestingButtonToggle.py">
+    <entry file="file://$PROJECT_DIR$/TestingButtonToggle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
@@ -390,7 +398,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestingTabs.py" />
-    <entry file="file://$PROJECT_DIR$/venv/SampleApp.py">
+    <entry file="file://$PROJECT_DIR$/SampleApp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
@@ -400,7 +408,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/PlayingWithSlider.py">
+    <entry file="file://$PROJECT_DIR$/PlayingWithSlider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
@@ -410,7 +418,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/TestingURL.py">
+    <entry file="file://$PROJECT_DIR$/TestingURL.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="5" selection-end-column="22" />
@@ -421,7 +429,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/TestingPipe.py" />
-    <entry file="file://$PROJECT_DIR$/venv/TestingDash.py">
+    <entry file="file://$PROJECT_DIR$/TestingDash.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
@@ -438,9 +446,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/__init__.py" />
     <entry file="file://$PROJECT_DIR$/venv/Display/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/venv/TestingDynamic.py">
+    <entry file="file://$PROJECT_DIR$/TestingDynamic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
@@ -450,7 +457,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/RandomNumberGenerator.py">
+    <entry file="file://$PROJECT_DIR$/RandomNumberGenerator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
@@ -460,7 +467,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/TestingUpdate.py">
+    <entry file="file://$PROJECT_DIR$/TestingUpdate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
@@ -470,7 +477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DeviceDataDisplay.py">
+    <entry file="file://$PROJECT_DIR$/DeviceDataDisplay.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
@@ -480,26 +487,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DeviceDataClasses.py">
+    <entry file="file://$PROJECT_DIR$/DeviceDataClasses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DeviceDataReceptionServer.py">
+    <entry file="file://$PROJECT_DIR$/venv/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/TestingImportB.py" />
+    <entry file="file://$PROJECT_DIR$/TestingImportC.py" />
+    <entry file="file://$PROJECT_DIR$/TestingImportA.py" />
+    <entry file="file://$PROJECT_DIR$/TestingTime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DataGeneration.py">
+    <entry file="file://$PROJECT_DIR$/DataGeneration.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="285">
           <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -507,9 +515,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/DataReading.py">
+    <entry file="file://$PROJECT_DIR$/DataReading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
+        <state relative-caret-position="1155">
           <caret line="77" column="28" selection-start-line="77" selection-start-column="28" selection-end-line="77" selection-end-column="28" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -517,16 +525,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/ServerOriginalCode.py">
+    <entry file="file://$PROJECT_DIR$/ServerOriginalCode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/TestingGraphTypes.py">
+    <entry file="file://$PROJECT_DIR$/TestingGraphTypes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="465">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -534,27 +542,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/TestingListPo.py">
+    <entry file="file://$PROJECT_DIR$/TestingDictFor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        <state relative-caret-position="210">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/TestingImportA.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/TestingImportC.py">
+    <entry file="file://$PROJECT_DIR$/TestingListPo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/TestingImportB.py">
+    <entry file="file://$PROJECT_DIR$/DeviceDataReceptionServer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="120">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
